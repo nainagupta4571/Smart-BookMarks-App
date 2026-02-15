@@ -8,7 +8,8 @@ Users can securely log in with Google, save personal bookmarks, and see real-tim
 ## Live Demo
 
 Deployed on Vercel:  
-`https://smart-book-marks-app.vercel.app/`
+🚀 [View Live App](https://smart-book-marks-app.vercel.app/)
+
 
 ---
 
